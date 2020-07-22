@@ -1,2 +1,35 @@
-# Call-For-Code-Challenge
-All rights for this repository are copyright and governed as sole authority of team, under their contributed works. No part of this repository shall be reproduced, edited or reused as it would strictly invite copyright infringement acts as dictated by the law.
+# Predicting-the-energy-output-of-wind-turbine-based-on-weather-condition
+# Call For Code Global Challenge
+
+## Problem Description
+
+Wind energy plays an increasing role in the supply of energy world-wide.
+The energy output of a wind farm is highly dependent on the wind conditions present at its site.
+If the output can be predicted more accurately, energy suppliers can coordinate the
+collaborative production of different energy sources more efficiently to avoid costly overproduction.
+
+
+## Expected Solutions
+
+Develop a time series model to Predict the power output of wind farm based on the weather condition in the site (1 Hr prediction to 72 Hrs. prediction) Build an application to recommend the Power Grid to suggest the best time to utilize the energy from wind farm
+
+
+## Technologies & Tools
+
+ Python 2 or 3, IBM Watson Studio
+ IBM Cloud for Deployment
+ Android / any Web frameworks
+ 
+
+## Data-set References
+
+https://hpi.de/friedrich/docs/paper/RE1.pdf
+
+https://www.kaggle.com/berkerisen/wind-turbine-scada-dataset
+
+## Link to project demonstration video
+https://youtu.be/n3qdvFgT6yE
+
+##  Deployed application link
+http://energy-prediction.rf.gd/
+
